@@ -15,7 +15,7 @@ d.) Frekuensi-frekuensi nya adalah:
     Frekuensi terakhir adalah 22050.0 Hz.
     3 Frekuensi dominan pada berkas audionya adalah 100.00 Hz 500.00 Hz dan 1000.00 Hz
     
-e.)
+e.) Tercantum pada file jawaban UTS
 
 No. 2 File PNG
 --------------
@@ -25,6 +25,6 @@ b.) Ukuran citra yang tersimpan adalah 100 x 100
 
 c.) Format pixel citra dari berkas adalah RGBA
 
-d.)
+d.) Tercantum pada file jawaban UTS
 
-e.)
+e.) Tercantum pada file jawaban UTS
